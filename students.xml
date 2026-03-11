@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Faculty SYSTEM "students.dtd">
+
+<Faculty>
+
+  <Student RegistrationNumber="39414409">
+    <FirstName>Abd errazzak</FirstName>
+    <FamilyName>Merad</FamilyName>
+    <Age>21</Age>
+    <Address>
+      <Number>46</Number>
+      <City>Mih Ouensa</City>
+      <PostalCode>39030</PostalCode>
+    </Address>
+    <Level>3L</Level>
+    <Speciality>ComputerScience</Speciality>
+    <Average>0.00</Average>
+  </Student>
+
+</Faculty>
